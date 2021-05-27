@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/static/js/main.ff818f5d.chunk.js",
-    "main.js.map": "/static/js/main.ff818f5d.chunk.js.map",
+    "main.js": "/static/js/main.ba9b3322.chunk.js",
+    "main.js.map": "/static/js/main.ba9b3322.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dce17f23.js",
     "runtime-main.js.map": "/static/js/runtime-main.dce17f23.js.map",
     "static/css/2.999eedfc.chunk.css": "/static/css/2.999eedfc.chunk.css",
-    "static/js/2.82bfe5e8.chunk.js": "/static/js/2.82bfe5e8.chunk.js",
-    "static/js/2.82bfe5e8.chunk.js.map": "/static/js/2.82bfe5e8.chunk.js.map",
+    "static/js/2.3ae639a5.chunk.js": "/static/js/2.3ae639a5.chunk.js",
+    "static/js/2.3ae639a5.chunk.js.map": "/static/js/2.3ae639a5.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.999eedfc.chunk.css.map": "/static/css/2.999eedfc.chunk.css.map",
-    "static/js/2.82bfe5e8.chunk.js.LICENSE.txt": "/static/js/2.82bfe5e8.chunk.js.LICENSE.txt",
-    "static/media/icon-botdefence.5cc69900.svg": "/static/media/icon-botdefence.5cc69900.svg",
+    "static/js/2.3ae639a5.chunk.js.LICENSE.txt": "/static/js/2.3ae639a5.chunk.js.LICENSE.txt",
+    "static/media/icon-botdefense.5cc69900.svg": "/static/media/icon-botdefense.5cc69900.svg",
     "static/media/icon-filetypes.35d024bd.svg": "/static/media/icon-filetypes.35d024bd.svg",
     "static/media/icon-gear.0c9099e6.svg": "/static/media/icon-gear.0c9099e6.svg",
     "static/media/icon-headers.735a8881.svg": "/static/media/icon-headers.735a8881.svg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.dce17f23.js",
     "static/css/2.999eedfc.chunk.css",
-    "static/js/2.82bfe5e8.chunk.js",
-    "static/js/main.ff818f5d.chunk.js"
+    "static/js/2.3ae639a5.chunk.js",
+    "static/js/main.ba9b3322.chunk.js"
   ]
 }
